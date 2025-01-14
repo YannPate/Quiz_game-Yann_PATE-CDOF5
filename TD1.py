@@ -96,7 +96,7 @@ def ReadQuestion(dico):
         else :
             print("Mauvaise réponse !")
     print("Votre score est : ", score, "\n")
-    retry = input("Voulez-vous réessayer ?\n1 : Oui\n2 : Non")
+    retry = input("Voulez-vous réessayer ?\n1 : Oui\n2 : Non\n")
     if retry == "1":
         ChooseDifficulty
     else : 
