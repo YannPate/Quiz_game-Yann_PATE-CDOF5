@@ -105,3 +105,5 @@ def ReadQuestion(dico):
         print("Au revoir !")
 
 ChooseDifficulty()
+
+print("Pas d'erreur ! Bravo !")
