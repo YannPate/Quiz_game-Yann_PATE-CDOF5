@@ -9,7 +9,14 @@ Installer python
 
 Cloner le repository
 Ouvrir le fichier TD1.py
-éxecuter le code
+Executer le code
+
+### Utilisation
+
+Executer le code 
+Selectionner le numéro associé à la difficulté voulue
+Selectionner le numéro associé à la réponse voulue
+Selectionner le numéro associé en cas de nouvelle partie
 
 ## Auteur et contributeurs
 
